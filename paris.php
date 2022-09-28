@@ -1,5 +1,5 @@
 <?php
-// Paris extension, https://github.com/datenstrom/yellow-extensions/tree/master/source/paris
+// Paris extension, https://github.com/annaesvensson/yellow-paris
 
 class YellowParis {
     const VERSION = "0.8.13";
