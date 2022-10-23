@@ -2,7 +2,7 @@
 // Paris extension, https://github.com/annaesvensson/yellow-paris
 
 class YellowParis {
-    const VERSION = "0.8.13";
+    const VERSION = "0.8.14";
     public $yellow;         // access to API
     
     // Handle initialisation
@@ -16,8 +16,7 @@ class YellowParis {
         if ($action=="install") {
             $this->yellow->system->save($fileName, array("theme" => "paris"));
         } elseif ($action=="uninstall" && $this->yellow->system->get("theme")=="paris") {
-            $theme = reset(array_diff($this->yellow->system->getValues("theme"), array("paris")));
-            $this->yellow->system->save($fileName, array("theme" => $theme));
+            $this->yellow->system->save($fileName, array("theme" => $this->yellow->system->getDifferent("theme")));
         }
     }
 }
