@@ -4,7 +4,7 @@
 
 Paris is an elegant theme.
 
-<p align="center"><img src="paris-screenshot.png?raw=true" alt="Screenshot"></p>
+<p align="center"><img src="SCREENSHOT.png?raw=true" alt="Screenshot"></p>
 
 ## How to install an extension
 
