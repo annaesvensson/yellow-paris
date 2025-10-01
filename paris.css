@@ -6,7 +6,6 @@
     --bg: #fff;
     --code-bg: #f7f7f7;
     --important-bg: #fdf3f2;
-    --note-bg: #fffbf0;
     --heading: #333;
     --text: #333;
     --code: #333;
@@ -14,7 +13,6 @@
     --link-active: #cf3621;
     --blockquote: #777;
     --important-accent: #d32;
-    --note-accent: #fb0;
     --separator: #bbb;
     --border: #bbb;
     --font: "Open Sans", Helvetica, sans-serif;
@@ -172,12 +170,6 @@ a:hover {
     padding: 10px 1em;
     background-color: var(--important-bg);
     border-left: 10px solid var(--important-accent);
-}
-.content .note {
-    margin: 1em 0;
-    padding: 10px 1em;
-    background-color: var(--note-bg);
-    border-left: 10px solid var(--note-accent);
 }
 .content .flexible {
     position: relative;
