@@ -1,8 +1,6 @@
-<p align="right"><a href="readme-de.md">Deutsch</a> &nbsp; <a href="readme.md">English</a> &nbsp; <a href="readme-sv.md">Svenska</a></p>
-
 # Paris 0.9.5
 
-Paris är ett elegant tema.
+Paris är ett elegant tema. Designad av Anna Svensson.
 
 <p align="center"><img src="screenshot.png" alt="Skärmdump"></p>
 
@@ -20,6 +18,4 @@ Standardtemat definieras i filen `system/extensions/yellow-system.ini`. Ett anna
 
 Detta tillägg innehåller Open Sans av Steve Matteson. Tack för det vackra typsnittet.
 
-## Formgivare
-
-Anna Svensson. [Få hjälp](https://datenstrom.se/sv/yellow/help/).
+Har du några frågor? [Få hjälp](https://datenstrom.se/sv/yellow/help/).
