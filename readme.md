@@ -1,4 +1,4 @@
-# Paris 0.9.5
+# Paris 0.9.6
 
 Paris is an elegant theme. Designed by Anna Svensson.
 
