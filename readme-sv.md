@@ -1,4 +1,4 @@
-# Paris 0.9.6
+# Paris 1.0.1
 
 Paris är ett elegant tema. Designad av Anna Svensson.
 
